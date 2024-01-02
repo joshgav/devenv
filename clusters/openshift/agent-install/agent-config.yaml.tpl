@@ -5,7 +5,7 @@ metadata:
   namespace: cluster0
 ## IP address of node0
 ## may be empty if `nmstateconfig` is provided
-rendezvousIP: 192.168.122.210
+rendezvousIP: 192.168.1.222
 additionalNTPSources:
 - 0.rhel.pool.ntp.org
 - 1.rhel.pool.ntp.org
